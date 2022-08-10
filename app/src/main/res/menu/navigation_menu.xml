@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_outline_house_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_outline_person_24"
+        android:title="My Profile" />
+
+    <item
+        android:id="@+id/order"
+        android:icon="@drawable/ic_outline_shopping_cart_24"
+        android:title="My Order" />
+    <item
+        android:id="@+id/book"
+        android:icon="@drawable/ic_outline_library_books_24"
+        android:title="Books" />
+    <item
+        android:id="@+id/privacy"
+        android:icon="@drawable/ic_outline_screen_lock_portrait_24"
+        android:title="Privacy Policy" />
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_outline_share_24"
+        android:title="Share App" />
+    <item
+        android:id="@+id/call"
+        android:icon="@drawable/ic_baseline_call_24"
+        android:title="Call Us/Helpline" />
+
+</menu>

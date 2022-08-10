@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/feed"
+        android:icon="@drawable/ic_outline_library_books_24"
+        android:title="Feed" />
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_outline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/liveclass"
+        android:icon="@drawable/ic_outline_ondemand_video_24"
+        android:title="Live Class" />
+
+
+</menu>
